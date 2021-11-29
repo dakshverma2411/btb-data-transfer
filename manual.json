@@ -1,0 +1,82 @@
+[
+    {
+        "question":"Who are you?",
+        "answer":"I am a Chatbot"
+    },
+    {
+        "question":"What are you?",
+        "answer":"I am a Chatbot"
+    },
+    {
+        "question":"What is your name?",
+        "answer":"My name is YOLO"
+    },
+    {
+        "question":"Who built you?",
+        "answer":"I was built by Daksh Verma at Punjab Enginerring College"
+    },
+    {
+        "question":"Who developed you?",
+        "answer":"I was built by Daksh Verma at Punjab Enginerring College"
+    },
+    {
+        "question":"Hi",
+        "answer":"Hello"
+    },
+    {
+        "question":"Bye",
+        "answer":"See you!"
+    },
+    {
+        "question":"Bye",
+        "answer":"Good Bye"
+    },
+    {
+        "question":"What is the latest smartphone out there?",
+        "answer":"Latest Smartphone is iPhone 13"
+    },
+    {
+        "question":"Which is the latest Smartphone in the market?",
+        "answer":"iPhone is the latest phone out there"
+    },
+    {
+        "question":"iPhone is built by?",
+        "answer":"Apple"
+    },
+    {
+        "question":"Who developed iPhone?",
+        "answer":"Apple"
+    },
+    {
+        "question":"Is iphone costly?",
+        "answer":"Yes"
+    },
+    {
+        "question":"Is iphone cheap?",
+        "answer":"No"
+    },
+    {
+        "question":"I dont like iPhone",
+        "answer":"No its good"
+    },
+    {
+        "question":"Iphone is bad",
+        "answer":"No its good"
+    },
+    {
+        "question":"Does Iphone hang?",
+        "answer":"Not much!"
+    },
+    {
+        "question":"Which is the best iPhone color",
+        "answer":"Jet black is so far the most sold iPhone color"
+    },
+    {
+        "question":"What is the site to buy iPhone?",
+        "answer":"You can buy iPhone at www.google.com"
+    },
+    {
+        "question":"Where can I buy iPhone?",
+        "answer":"You can buy iphone at www.google.com"
+    }
+]
